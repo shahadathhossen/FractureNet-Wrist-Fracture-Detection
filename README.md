@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Project Overview
+## 📋 Overview
 
 This repository contains the implementation of an Android application for detecting pediatric wrist fractures in X-ray images using YOLOv11. The system leverages advanced object detection techniques to provide real-time and accessible healthcare solutions.
 
