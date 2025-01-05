@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Overview
+## 📋 Project Overview
 
 This repository contains the implementation of an Android application for detecting pediatric wrist fractures in X-ray images using YOLOv11. The system leverages advanced object detection techniques to provide real-time and accessible healthcare solutions.
 
@@ -37,53 +37,33 @@ This repository contains the implementation of an Android application for detect
 
 Below are some sample outputs from the app:
 
-### Row 1
+
 <p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-39-59-360_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 1" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-40-02-116_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 2" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-40-36-890_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 3" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-41-00-791_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 4" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-41-24-101_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 5" width="150">
-</p>
-
-### Row 2
-<p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-41-45-378_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 6" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-44-53-547_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 7" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-45-34-549_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 8" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-45-59-799_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 9" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-46-23-129_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 10" width="150">
-</p>
-
-### Row 3
-<p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-46-50-806_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 11" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-47-17-147_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 12" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-47-54-882_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 13" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-48-28-919_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 14" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-49-02-070_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 15" width="150">
-</p>
-
-### Row 4
-<p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-49-35-748_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 16" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-50-09-038_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 17" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-50-31-070_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 18" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-51-00-282_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 19" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-51-24-143_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 20" width="150">
-</p>
-
-### Row 5
-<p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-51-38-498_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 21" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-52-04-274_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 22" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-52-52-810_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 23" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-53-18-956_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 24" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-54-09-277_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 25" width="150">
-</p>
-
-### Row 6
-<p align="center">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-55-17-699_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 26" width="150">
   <img src="App%20Screenshots/Screenshot_2025-01-05-01-56-00-418_com.enlightenengineering.WristFractureDetection.jpg" alt="Screenshot 27" width="150">
 </p>
